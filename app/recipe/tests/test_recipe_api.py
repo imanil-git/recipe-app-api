@@ -64,7 +64,10 @@ class PrivateRecipeApiTests(TestCase):
 
     def setUp(self):
         self.client = APIClient()
-        self.user = create_user(email='user@example.com', password='testpass123')
+        self.user = create_user(
+            email='user@example.com',
+            password='testpass123'
+        )
         self.client.force_authenticate(self.user)
 
     def test_retrive_recipes(self):
@@ -81,7 +84,10 @@ class PrivateRecipeApiTests(TestCase):
 
     def test_recipe_list_limited_to_user(self):
         """Test list to recipes is limited to authenticated user."""
-        other_user = create_user(email='other@example.com', password='password123',)
+        other_user = create_user(
+            email='other@example.com',
+            password='password123',
+        )
         create_recipe(user=other_user)
         create_recipe(user=self.user)
 
@@ -146,10 +152,10 @@ class PrivateRecipeApiTests(TestCase):
         )
 
         payload = {
-            'title': 'New recipe title',
-            'link': 'https://example.com/new-recipe.pdf',
-            'description': 'New recipe description',
-            'time_minutes': 10,
+            'title': 'New recipe title', 
+            'link': 'https://example.com/new-recipe.pdf', 
+            'description': 'New recipe description', 
+            'time_minutes': 10, 
             'price': Decimal('2.50'),
         }
         url = detail_url(recipe.id)
