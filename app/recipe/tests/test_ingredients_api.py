@@ -130,7 +130,7 @@ class PrivateIngredientsApiTests(TestCase):
             user=self.user,
         )
         recipe2 = Recipe.objects.create(
-            title= 'Herb Eggs',
+            title='Herb Eggs',
             time_minutes=20,
             price=Decimal('4.00'),
             user=self.user,

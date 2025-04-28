@@ -129,7 +129,7 @@ class PrivateTagsApiTests(TestCase):
             user=self.user,
         )
         recipe2 = Recipe.objects.create(
-            title= 'Porridge',
+            title='Porridge',
             time_minutes=3,
             price=Decimal('2.00'),
             user=self.user,
