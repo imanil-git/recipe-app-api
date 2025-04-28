@@ -349,7 +349,7 @@ class PrivateRecipeApiTests(TestCase):
 
     def test_create_ingredient_on_update(self):
         """Test creating an ingredient when updating a recipe."""
-        recipe  = create_recipe(user=self.user)
+        recipe = create_recipe(user=self.user)
 
         payload = {'ingredients': [{'name': 'Limes'}]}
         url = detail_url(recipe.id)
