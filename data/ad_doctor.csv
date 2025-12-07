@@ -1,0 +1,275 @@
+id,name,slug,description,address,postal_code,website,phone,lat,lng,timezone,city_id,country_id,state_id,is_premium,appointment_cost,source
+1990903,Edward J Gindi ,edward-j-gindi, ,1636 E 14th St Ste 108  ,11229-1100,,,40.6501,-73.94958,America/New_York,4049286,395,4398678,f,,bookedmd
+2019953,Ms. Nawal  Siage ,ms-nawal-siage, ,3066 35th St  ,11103-4702,,,40.77205,-73.93014,America/New_York,5391959,395,5332921,f,,bookedmd
+2061893,Dr. Scott L Roth ,dr-scott-l-roth, ,1012 Elmgrove Rd  ,14624-1324,,,43.15478,-77.61556,America/New_York,4049286,395,4398678,f,,bookedmd
+2097730,Dr. Bulent  Mamikoglu ,dr-bulent-mamikoglu, ,191 N Main St  ,14895-1150,,,42.87591,-74.27235,America/New_York,4707894,395,4736286,f,,bookedmd
+2097866,Mrs. Noreen H Linn ,mrs-noreen-h-linn, ,222 Westchester Ave Suite 205 ,10604-2906,,,41.03399,-73.76291,America/New_York,5391959,395,5332921,f,,bookedmd
+2099469,Cascya  Charlot ,cascya-charlot, ,60 Plaza St E # 1l  ,11238-5025,,,40.6501,-73.94958,America/New_York,4164138,395,4155751,f,,bookedmd
+2102995,Dr. Celina Parayannilam John ,dr-celina-parayannilam-john, ,984 N Broadway Suite 401 A ,10701-1318,,,40.93121,-73.89875,America/New_York,5391959,395,5332921,f,,bookedmd
+2138728,Sharon B. Markovics ,sharon-b-markovics, ,1129 Northern Blvd  ,11030-3022,,,40.79788,-73.69957,America/New_York,4707894,395,4736286,f,,bookedmd
+2142272,Dr. Warren Wenjsair Hsu ,dr-warren-wenjsair-hsu, ,21215 Union Tpke  ,11364-3519,,,40.75399,-73.76597,America/New_York,4049286,395,4398678,f,,bookedmd
+2207030,Craig S Osleeb ,craig-s-osleeb, ,"90 S Bedford Rd Mount Kisco Medical Group, Pc ",10549-3412,,,41.20426,-73.72708,America/New_York,5391959,395,5332921,f,,bookedmd
+2207306,Dr. Debra  Lebo ,dr-debra-lebo, ,6 Ohio Dr Ste 202  ,11042-1129,,,40.7351,-73.68791,America/New_York,4049286,395,4398678,f,,bookedmd
+2249865,Dr. Lev  Barsky ,dr-lev-barsky, ,728 Ocean View Ave Suite1 ,11235-6308,,,40.6501,-73.94958,America/New_York,4707894,395,4736286,f,,bookedmd
+2287616,Dr. Anne L Maitland ,dr-anne-l-maitland, ,55 S Broadway 2nd Floor ,10591-4000,,,41.07621,-73.85875,America/New_York,4164138,395,4155751,f,,bookedmd
+2365386,John Edward Rooney ,john-edward-rooney-11355-5044-1650995104, ,627 Broadway  ,11758-5031,,,40.68066,-73.47429,America/New_York,4707894,395,4736286,f,,bookedmd
+2407219,Nancy  Wade ,nancy-wade, ,8 Southwoods Blvd  ,12211-2554,,,42.65258,-73.75623,America/New_York,4049286,395,4398678,f,,bookedmd
+2421075,Robert T Goldman ,robert-t-goldman, ,310 N Highland Ave Ste 4 Mount Kisco Medical Group Pc ,10562-6301,,,41.16287,-73.86152,America/New_York,4164138,395,4155751,f,,bookedmd
+2422596,Yudhistira  Persaud ,yudhistira-persaud, ,1276 Fulton Ave  ,10456-3402,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+2448172,Dr. James Allen Pollowitz ,dr-james-allen-pollowitz, ,281 Garth Rd Ste A ,10583-4052,,,41.0051,-73.78458,America/New_York,4707894,395,4736286,f,,bookedmd
+2448765,Dr. Muataz  Jaber ,dr-muataz-jaber, ,135 Hempstead Ave  ,11570-2917,,,40.65871,-73.64124,America/New_York,5391959,395,5332921,f,,bookedmd
+2487892,Dr. Bruce S Dobozin ,dr-bruce-s-dobozin, ,2 Peter Cooper Rd Suite 10e ,10010-6723,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+2496215,Erin  Banta ,erin-banta, ,120 Mineola Blvd Ste 410  ,11501-4077,,,40.74927,-73.64068,America/New_York,4049286,395,4398678,f,,bookedmd
+2568810,Allison  Ramsey ,allison-ramsey, ,222 Alexander St Monroe Court ,14607-4039,,,43.15478,-77.61556,America/New_York,4185686,395,4197000,f,,bookedmd
+2644269,Amy Helen Korobow ,amy-helen-korobow, ,325 Park Ave  ,11743-2779,,,40.86815,-73.42568,America/New_York,5391959,395,5332921,f,,bookedmd
+2704887,Paula Anne Brown ,paula-anne-brown, ,600 Westage Business Center Drive  ,12524-2281,,,41.53565,-73.89903,America/New_York,5391959,395,5332921,f,,bookedmd
+2713354,Dr. Alissa Brette Mcinerney ,dr-alissa-brette-mcinerney, ,3503 31st Ave  ,11106-1434,,,40.77205,-73.93014,America/New_York,4049286,395,4398678,f,,bookedmd
+2738403,Brian Elkins Novick ,brian-elkins-novick, ,11821 Queens Blvd Ste 601  ,11375-7206,,,43.15833,-73.63611,America/New_York,4049286,395,4398678,f,,bookedmd
+2740603,John Daniel Scinto ,john-daniel-scinto, ,3680 Hill Blvd Caremount Medical Pc ,10535-1500,,,41.33815,-73.79069,America/New_York,4707894,395,4736286,f,,bookedmd
+2753609,Marc  Braunstein ,marc-braunstein, ,1605 Broadway  ,11557-1534,,,40.64316,-73.69569,America/New_York,4185686,395,4197000,f,,bookedmd
+2814428,Dr. Robert Michael Klein ,dr-robert-michael-klein, ,"3959 Broadway Ph Building, 17th Floor, East Wing, Room 114 ",10032-3720,,,33.79844,-86.84861,America/New_York,4049286,395,4398678,f,,bookedmd
+2819934,Dr. Rachel Lena Miller ,dr-rachel-lena-miller, ,622 W 168th St  ,10032-3720,,,33.79844,-86.84861,America/New_York,4164138,395,4155751,f,,bookedmd
+2847359,Dr. Kira Antonia Geraci-Ciardullo ,dr-kira-antonia-geraci-ciardullo, ,1600 Harrison Ave Ste 304 ,10543-3151,,,40.94871,-73.73263,America/New_York,5391959,395,5332921,f,,bookedmd
+2852341,Eugene N. Gerardi ,eugene-n-gerardi, ,1171 Old Country Rd Suite #5 ,11803-5022,,,40.77649,-73.46735,America/New_York,5391959,395,5332921,f,,bookedmd
+2868187,Dr. Maria Grace Lennox ,dr-maria-grace-lennox, ,3900 N Buffalo St  ,14127,,,42.92806,-73.89722,America/New_York,4707894,395,4736286,f,,bookedmd
+2884491,Richard Davis Snyder ,richard-davis-snyder, ,2632 E 21st St  ,11235-2941,,,40.6501,-73.94958,America/New_York,5391959,395,5332921,f,,bookedmd
+2885343,Douglas William Halliday ,douglas-william-halliday, ,7 Fennell St  ,13152-1196,,,42.94701,-76.4291,America/New_York,4707894,395,4736286,f,,bookedmd
+2892075,Dr. John  Castronovo ,dr-john-castronovo, ,2527 Cropsey Ave  ,11214,,,40.6501,-73.94958,America/New_York,5391959,395,5332921,f,,bookedmd
+2963773,Juan Abel  Romero Loor SR.,juan-abel-romero-loor-sr, ,5910 Junction Blvd  ,11373-5156,,,40.73649,-73.87791,America/New_York,4049286,395,4398678,f,,bookedmd
+2973183,Stewart  Kaplan ,stewart-kaplan, ,20 Hicksville Rd Suite 6 ,11758-5819,,,40.68066,-73.47429,America/New_York,5391959,395,5332921,f,,bookedmd
+3018502,Roland  Honeine ,roland-honeine, ,3900 N Buffalo St  ,14127-1842,,,42.92806,-73.89722,America/New_York,4707894,395,4736286,f,,bookedmd
+3048235,Dr. Kathleen M Donovan ,dr-kathleen-m-donovan, ,500 Corporate Pkwy Suite 100 ,14226-1263,,,42.97839,-78.79976,America/New_York,4164138,395,4155751,f,,bookedmd
+3051152,Dr. Prashant P Ponda ,dr-prashant-p-ponda, ,103 Executive Dr Ste 500  ,12553-5508,,,41.47676,-74.02375,America/New_York,4185686,395,4197000,f,,bookedmd
+3059597,Dr. Anthony  Gerardi ,dr-anthony-gerardi, ,984 N Broadway  ,10701-1318,,,40.93121,-73.89875,America/New_York,4164138,395,4155751,f,,bookedmd
+3090445,Susan Ellen Panes ,susan-ellen-panes, ,32 Village Sq  ,11542-2515,,,40.86232,-73.63374,America/New_York,4707894,395,4736286,f,,bookedmd
+3097067,Dr. Raphael Eugene Strauss ,dr-raphael-eugene-strauss, ,283 Commack Rd  ,11725-6021,,,40.84288,-73.29289,America/New_York,4707894,395,4736286,f,,bookedmd
+3110090,Rushita Jay Mehta ,rushita-jay-mehta, ,715 Park Ave Ste 2  ,10021-5047,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+3132550,Dr. Terese Agnes Copeland ,dr-terese-agnes-copeland, ,414 Maple Ave Ste 600  ,12866,,,43.08313,-73.78457,America/New_York,5391959,395,5332921,f,,bookedmd
+3139390,David  Shulan ,david-shulan, ,8 Southwoods Blvd  ,12211-2554,,,42.65258,-73.75623,America/New_York,4164138,395,4155751,f,,bookedmd
+3147818,Dr. Timothy  Mainardi ,dr-timothy-mainardi, ,49 Murray St  ,10007-2250,,,33.79844,-86.84861,America/New_York,4164138,395,4155751,f,,bookedmd
+3148763,Dr. Mauli  Desai ,dr-mauli-desai, ,5 E 98th St  ,10029-6501,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+3173418,Dr. Lisa Kim Ellman-Grunther ,dr-lisa-kim-ellman-grunther, ,115 Broadway Ste 1800 ,10006-1652,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+3180235,Mariana  Marcu ,mariana-marcu, ,30e 40th St 802  ,10016-1201,,,33.79844,-86.84861,America/New_York,4049286,395,4398678,f,,bookedmd
+3184798,Bora V Kim ,bora-v-kim, ,210-33 26th Avenue Ground Level  ,11360-5908,,,40.76844,-73.77708,America/New_York,4164138,395,4155751,f,,bookedmd
+3252577,Dr. Cynthia  Jerome ,dr-cynthia-jerome, ,222 Bloomingdale Rd Fl 2  ,10605,,,41.03399,-73.76291,America/New_York,5391959,395,5332921,f,,bookedmd
+3272712,Vinay P Goswamy ,vinay-p-goswamy, ,1425 Portland Ave  ,14621-3001,,,43.15478,-77.61556,America/New_York,4707894,395,4736286,f,,bookedmd
+3330478,Dr. Michael G Teitel ,dr-michael-g-teitel, ,10 Union Sq E  ,10003-3314,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+3374609,Dr. Rita Rose Sloan ,dr-rita-rose-sloan, ,3615 Seneca St  ,14224-3444,,,42.85006,-78.79975,America/New_York,4707894,395,4736286,f,,bookedmd
+3504178,Dr. Ellen Beth Schaeffer ,dr-ellen-beth-schaeffer, ,5229 Witz Drive  ,13212,,,43.13479,-76.12992,America/New_York,4164138,395,4155751,f,,bookedmd
+3505633,Dr. Andrew Wolfe Green ,dr-andrew-wolfe-green, ,3900 N Buffalo St  ,14127-1842,,,42.92806,-73.89722,America/New_York,4185686,395,4197000,f,,bookedmd
+3506192,Michael  Katlan ,michael-katlan, ,8 Southwoods Blvd  ,12211-2554,,,42.65258,-73.75623,America/New_York,4164138,395,4155751,f,,bookedmd
+3513152,Joseph S Wojcik ,joseph-s-wojcik, ,525 Bronxville Road Suite 1g ,10708-1137,,,40.93121,-73.89875,America/New_York,5391959,395,5332921,f,,bookedmd
+3542433,Dr. Alan  Kaufman ,dr-alan-kaufman, ,3626 E Tremont Ave  ,10465-2030,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+3547043,Dr. Munirih Nura Tahzib ,dr-munirih-nura-tahzib, ,37 West 23rd Street  ,10010,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+3548787,Dr. Morris  Charytan ,dr-morris-charytan, ,20 Addison Pl  ,11580-5914,,,40.66427,-73.70846,America/New_York,4185686,395,4197000,f,,bookedmd
+3576522,Dr. Rao A.k. Yalamanchili ,dr-rao-ak-yalamanchili, ,159 Clinton St  ,11201-4601,,,40.6501,-73.94958,America/New_York,4049286,395,4398678,f,,bookedmd
+3582782,Joon Hong Park ,joon-hong-park, ,75 Crystal Run Rd Suite 220 ,10941-7000,,,40.83972,-73.83167,America/New_York,4049286,395,4398678,f,,bookedmd
+3630383,Dr. Nicole Aliza Mazer ,dr-nicole-aliza-mazer, ,2601 Cpl Kennedy St  ,11360-2452,,,40.76844,-73.77708,America/New_York,4049286,395,4398678,f,,bookedmd
+3659018,Dr. Harshit M Patel ,dr-harshit-m-patel, ,120 Bethpage Rd Suite 310 ,11801-1515,,,40.76843,-73.52513,America/New_York,5391959,395,5332921,f,,bookedmd
+3750785,Anna  Kochin ,anna-kochin, ,353 E 17th St Apt 4b ,10003-3821,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+3826685,Dr. Wellington Shelton Tichenor ,dr-wellington-shelton-tichenor, ,642 Park Ave  ,10021-6105,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+3833331,Sherry  Arbisser ,sherry-arbisser, ,8015 164th St  ,11432-1116,,,40.69149,-73.80569,America/New_York,4707894,395,4736286,f,,bookedmd
+3874709,Dr. Evelyn  Tolston ,dr-evelyn-tolston, ,161 Madison Ave 3a ,10016-5421,,,33.79844,-86.84861,America/New_York,4049286,395,4398678,f,,bookedmd
+3887400,Dr. Arsenio B Vivera ,dr-arsenio-b-vivera, ,255 E 49th St 9d ,10017-1500,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+3890874,Mr. Harvey Irwin Wolfe ,mr-harvey-irwin-wolfe, ,17 Hampton Road C/o Dr Alvin Orlian ,11020,,,40.80066,-73.72846,America/New_York,4707894,395,4736286,f,,bookedmd
+3912786,Dr. Kalpana D. Patel ,dr-kalpana-d-patel, ,65 Wehrle Dr  ,14225,,,42.88645,-78.87837,America/New_York,4049286,395,4398678,f,,bookedmd
+3927768,Dr. Yiqun  Hui ,dr-yiqun-hui, ,13633 37th Ave Unit 3d1 ,11354-4110,,,40.76538,-73.81736,America/New_York,4164138,395,4155751,f,,bookedmd
+3946459,Dr. Kishore K Ahuja ,dr-kishore-k-ahuja, ,3071 Perry Ave  ,10467-4111,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+3946675,Cassilda  James ,cassilda-james, ,111 Maltese Dr Suite 302 ,10940-2115,,,40.83972,-73.83167,America/New_York,4185686,395,4197000,f,,bookedmd
+3960507,Dr. Darren  Hirsch ,dr-darren-hirsch, ,400 Old Country Road Suite 16 ,11901-2145,,,40.91704,-72.66204,America/New_York,4707894,395,4736286,f,,bookedmd
+4113369,Dr. Andre J. Codispoti ,dr-andre-j-codispoti, ,70 Gilbert St Suite 205 ,10950-1538,,,41.33065,-74.18681,America/New_York,4164138,395,4155751,f,,bookedmd
+4116624,Dr. Alina A Serdakowska ,dr-alina-a-serdakowska, ,12 Studio Arc  ,10708-2631,,,40.93815,-73.83208,America/New_York,4185686,395,4197000,f,,bookedmd
+4119318,Dr. Allen David Meisel ,dr-allen-david-meisel, ,5 E 94th St  ,10128-1913,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+4153675,Samuel  Grubman ,samuel-grubman, ,154 W 14th St Fl 4  ,10011-7330,,,33.79844,-86.84861,America/New_York,4049286,395,4398678,f,,bookedmd
+4162572,Jennifer S. Lee ,jennifer-s-lee-10591-5139-1651000319, ,115 Broadhollow Rd  ,11747-4992,,,40.79343,-73.41512,America/New_York,4164138,395,4155751,f,,bookedmd
+4196662,Dr. Jonathan  Logan ,dr-jonathan-logan, ,201 Parrish St  ,14424-1727,,,42.87423,-77.28804,America/New_York,4164138,395,4155751,f,,bookedmd
+4238583,Dr. Jerome  Wildes ,dr-jerome-wildes, ,9116 158th Ave  ,11414-3126,,,40.65788,-73.83625,America/New_York,4164138,395,4155751,f,,bookedmd
+4326572,Dr. Ronald M Di Camillo ,dr-ronald-m-di-camillo, ,2907 Amboy Rd  ,10306-2008,,,40.56233,-74.13986,America/New_York,4164138,395,4155751,f,,bookedmd
+4363950,Dr. Kishan Rao Battu ,dr-kishan-rao-battu, ,694 5th Ave  ,12182-2331,,,42.72841,-73.69179,America/New_York,4164138,395,4155751,f,,bookedmd
+4368476,Saba  Sharif ,saba-sharif, ,1 Webster Ave Ste 300  ,12601-1362,,,41.70037,-73.92097,America/New_York,4707894,395,4736286,f,,bookedmd
+4374421,Dr. Vahid  Rahimian ,dr-vahid-rahimian, ,121 E 60th St Suite 4c ,10022-1117,,,33.79844,-86.84861,America/New_York,4049286,395,4398678,f,,bookedmd
+4400572,Mitchell Barry Boxer ,mitchell-barry-boxer, ,560 Northern Blvd Suite 209 ,11021,,,40.80066,-73.72846,America/New_York,4049286,395,4398678,f,,bookedmd
+4448603,Dr. Christopher A. Smith ,dr-christopher-a-smith, ,2977 Westinghouse Rd  ,14845-8120,,,42.16702,-76.82051,America/New_York,4049286,395,4398678,f,,bookedmd
+4459775,"Dr. Ingrid Karen Rosner, Md ",dr-ingrid-karen-rosner-md, ,301 E 66th St  ,10065-6205,,,33.79844,-86.84861,America/New_York,4185686,395,4197000,f,,bookedmd
+4485386,Janet  Claassen ,janet-claassen, ,8 Southwoods Blvd  ,12211-2554,,,42.65258,-73.75623,America/New_York,4707894,395,4736286,f,,bookedmd
+4565071,Dr. Peter  Logalbo ,dr-peter-logalbo, ,1 Crosfield Avenue Suite 201 ,10994-2229,,,41.09649,-73.97292,America/New_York,4185686,395,4197000,f,,bookedmd
+4565799,Helen M Evrard ,helen-m-evrard, ,3950 E Robinson Rd  ,14228-2041,,,42.97839,-78.79976,America/New_York,4049286,395,4398678,f,,bookedmd
+1983645,Harish B Kothari ,harish-b-kothari, ,906 Oak Tree Road Suite N ,07080-5127,,,40.57927,-74.41154,America/New_York,4164138,395,4155751,f,,bookedmd
+2020791,Dr. Richard Joseph Bukosky ,dr-richard-joseph-bukosky, ,926 N Wood Ave  ,07036,,,40.62205,-74.24459,America/New_York,5391959,395,5332921,f,,bookedmd
+2022030,William J Chernack ,william-j-chernack, ,28 Franklin Pl  ,07960-5305,,,40.79677,-74.48154,America/New_York,4185686,395,4197000,f,,bookedmd
+2137538,Tarun J Shah ,tarun-j-shah, ,2130 Highway 35 Suite 115a ,08750-1010,,,40.13206,-74.03458,America/New_York,5391959,395,5332921,f,,bookedmd
+2290065,Dr. Savithri B Bonala ,dr-savithri-b-bonala, ,18 N 3rd Ave  ,08904-2408,,,40.49594,-74.42432,America/New_York,4707894,395,4736286,f,,bookedmd
+2412274,Dr. Sandra Lynn Applebaum ,dr-sandra-lynn-applebaum, ,50 Cherry Hill Rd Suite 301 ,07054-1113,,,40.85788,-74.42599,America/New_York,4185686,395,4197000,f,,bookedmd
+2421063,Dr. Eric W. Bantz ,dr-eric-w-bantz, ,103 Old Marlton Pike Ste 211  ,08055-8772,,,39.90095,-74.8235,America/New_York,4164138,395,4155751,f,,bookedmd
+2483283,Dr. Eugene Anthony Gatti ,dr-eugene-anthony-gatti, ,54 E Main St  ,08053-2141,,,39.89122,-74.92183,America/New_York,4707894,395,4736286,f,,bookedmd
+2566042,Dr. Patricia  Hicks Hartman ,dr-patricia-hicks-hartman, ,574 Springfield Ave  ,07090-1001,,,40.65899,-74.34737,America/New_York,5391959,395,5332921,f,,bookedmd
+2611898,Dr. Gary Bruce Zuckerman ,dr-gary-bruce-zuckerman, ,3084 Highway 27 Suite 6 ,08824,,,40.42094,-74.56071,America/New_York,4049286,395,4398678,f,,bookedmd
+2646749,Slawomir M Kosinski ,slawomir-m-kosinski, ,703 Main St St. Joseph's Regional Medical Center ,07503-2621,,,40.91677,-74.17181,America/New_York,4707894,395,4736286,f,,bookedmd
+2655330,Dr. Allen Lewis Silvey JR.,dr-allen-lewis-silvey-jr, ,222 New Rd Ste 201  ,08221-1281,,,40.86316,-73.96764,America/New_York,5391959,395,5332921,f,,bookedmd
+2725399,Dr. Sunita  Kanumury ,dr-sunita-kanumury, ,496 E Main St Suite 1 ,07834-2554,,,40.89232,-74.47738,America/New_York,4707894,395,4736286,f,,bookedmd
+2730773,Louis Joseph Rondinella ,louis-joseph-rondinella, ,647 Shore Road  ,08244,,,39.31762,-74.5946,America/New_York,4707894,395,4736286,f,,bookedmd
+2810459,Dr. Jay Michael Kashkin ,dr-jay-michael-kashkin, ,23-00 Route 208 South  ,07410-1559,,,40.94038,-74.13181,America/New_York,4185686,395,4197000,f,,bookedmd
+2965813,Dr. Sylvia S Lee ,dr-sylvia-s-lee, ,2130 Millburn Ave  ,07040,,,40.73297,-74.27125,America/New_York,4185686,395,4197000,f,,bookedmd
+3051270,Patrick M Ambrosio ,patrick-m-ambrosio, ,3663 Route 9 N Ste 102  ,08857-3518,,,40.41483,-74.36543,America/New_York,4707894,395,4736286,f,,bookedmd
+3098428,Meera  Khedkar ,meera-khedkar, ,1 Diamond Hill Rd  ,07922-2104,,,40.67642,-74.42442,America/New_York,4707894,395,4736286,f,,bookedmd
+3130406,Dr. Nicholas Alexander Romanoff ,dr-nicholas-alexander-romanoff, ,1034 E Route #70  ,08034,,,39.93484,-75.03073,America/New_York,4049286,395,4398678,f,,bookedmd
+3175366,Dr. Eric Scott Applebaum ,dr-eric-scott-applebaum, ,3799 Us Highway 46 Ste 205  ,07054-1060,,,40.85788,-74.42599,America/New_York,4049286,395,4398678,f,,bookedmd
+3301198,Dr. Jeffrey G Weiss ,dr-jeffrey-g-weiss, ,44 State Rt 23 Suite 6 ,07457-1603,,,40.99399,-74.30348,America/New_York,5391959,395,5332921,f,,bookedmd
+3373213,Dr. Gregory Rocco Toci ,dr-gregory-rocco-toci, ,54 E Main St  ,08053-2141,,,39.89122,-74.92183,America/New_York,5391959,395,5332921,f,,bookedmd
+3419541,Donald N. Leibner ,donald-n-leibner, ,579a Cranbury Rd Ste 103 ,08816-5426,,,40.42788,-74.41598,America/New_York,4707894,395,4736286,f,,bookedmd
+3459476,Mathew  Varghese ,mathew-varghese, ,136 N Washington Ave Suite 203 ,07621-1776,,,40.9276,-73.99736,America/New_York,4185686,395,4197000,f,,bookedmd
+3467563,Kathleen  Thomas ,kathleen-thomas-07032-1650998248, ,206 Bergen Ave Suite 202 ,07032,,,40.76843,-74.14542,America/New_York,4707894,395,4736286,f,,bookedmd
+3545556,Justin Michael Skripak ,justin-michael-skripak, ,690 Kinderkamack Rd Ste 101  ,07649-1524,,,40.95871,-74.03681,America/New_York,4164138,395,4155751,f,,bookedmd
+3623425,Dr. Jeffrey Hall Dobken ,dr-jeffrey-hall-dobken, ,180 White Road Suite 204 ,07739,,,40.33678,-74.04708,America/New_York,4185686,395,4197000,f,,bookedmd
+3626874,Dr. Cyrus H. Nozad ,dr-cyrus-h-nozad, ,47 Orient Way 2nd Floor ,07070-2082,,,40.82649,-74.10681,America/New_York,5391959,395,5332921,f,,bookedmd
+3660219,Karen Sue Ziemke ,karen-sue-ziemke, ,745 Northfield Avenue Suite 4 ,07052-1144,,,40.79871,-74.23904,America/New_York,4164138,395,4155751,f,,bookedmd
+3700926,Dr. Robert E Coifman ,dr-robert-e-coifman, ,1122 North High St  ,08332,,,41.31315,-74.77989,America/New_York,4707894,395,4736286,f,,bookedmd
+3728085,Rebecca  Friess ,rebecca-friess, ,1 Diamond Hill Rd  ,07922-2104,,,40.67642,-74.42442,America/New_York,4049286,395,4398678,f,,bookedmd
+3885460,Dr. Shashank S Sheth ,dr-shashank-s-sheth, ,200 Bowman Dr Ste D285  ,08043-9626,,,40.48122,-74.48321,America/New_York,4707894,395,4736286,f,,bookedmd
+3910176,Dr. Thomas M Golbert ,dr-thomas-m-golbert, ,706 Alexander Rd  ,08540,,,40.34872,-74.65905,America/New_York,4164138,395,4155751,f,,bookedmd
+3912575,Lawrence A Schwartz ,lawrence-a-schwartz, ,408 Bethel Rd Suite D1 ,08244-2172,,,39.31762,-74.5946,America/New_York,4049286,395,4398678,f,,bookedmd
+3919391,Dr. Colin  Reisner ,dr-colin-reisner, ,280 Headquarter Plaza East Tower 2nd Floor ,07869-1828,,,40.79677,-74.48154,America/New_York,4049286,395,4398678,f,,bookedmd
+4030055,Dr. Margaret Ann Co ,dr-margaret-ann-co, ,75 N Maple Ave Suite 100 ,07450-3247,,,40.97926,-74.11653,America/New_York,4185686,395,4197000,f,,bookedmd
+4031103,Usha  Sundaram ,usha-sundaram, ,2333 Morris Ave Ste D 113 ,07083-5714,,,40.6954,-74.26998,America/New_York,5391959,395,5332921,f,,bookedmd
+4084031,Jamie  Zacharias ,jamie-zacharias-08080-2359-1651000079, ,570 Egg Harbor Rd Ste B2  ,08080-2359,,,39.7665,-75.14434,America/New_York,4185686,395,4197000,f,,bookedmd
+4282454,John J Oppenheimer ,john-j-oppenheimer, ,8 Saddle Rd First Floor ,07927-1902,,,40.82204,-74.44876,America/New_York,4185686,395,4197000,f,,bookedmd
+4357255,Elaine Karen Kravitz ,elaine-karen-kravitz, ,127 Ark Rd Suite 1 ,08054-6302,,,39.934,-74.891,America/New_York,4707894,395,4736286,f,,bookedmd
+4439654,Tariq  Mahmood ,tariq-mahmood-07083-5714-1651001163, ,2333 Morris Ave Ste D204 ,07083-5718,,,40.6954,-74.26998,America/New_York,4707894,395,4736286,f,,bookedmd
+4450490,Anna P Szemiot ,anna-p-szemiot, ,496 E Main St 1 ,07834-2554,,,40.89232,-74.47738,America/New_York,4049286,395,4398678,f,,bookedmd
+4626097,Wei Wei  Li ,wei-wei-li, ,725 River Rd Suite 208 ,07020-1171,,,40.82704,-73.97569,America/New_York,4164138,395,4155751,f,,bookedmd
+4653713,Dr. Jun  Yang ,dr-jun-yang, ,709 Sycamore Ave  ,07701-4946,,,40.30428,-74.10042,America/New_York,4049286,395,4398678,f,,bookedmd
+4868616,Mrs. Kristine M Cisko ,mrs-kristine-m-cisko, ,33 Overlook Rd Suite 307 ,07901-3570,,,40.71562,-74.36468,America/New_York,4049286,395,4398678,f,,bookedmd
+4948330,Angelo  Mastrosimone ,angelo-mastrosimone, ,123 Franklin Corner Road Suite 105 ,08648,,,40.29733,-74.7296,America/New_York,4049286,395,4398678,f,,bookedmd
+5070071,Katherine  Szema ,katherine-szema, ,1131 Broad St Suite 103 ,07702-4329,,,40.32955,-74.06153,America/New_York,5391959,395,5332921,f,,bookedmd
+5074063,Dr. Feryal  Hajee ,dr-feryal-hajee, ,34 Sycamore Ave Ste 1a  ,07739-1228,,,40.33678,-74.04708,America/New_York,4185686,395,4197000,f,,bookedmd
+5151821,Maria  Lania-Howarth ,maria-lania-howarth, ,6400 Main St Main Street Complex ,08043-4606,,,40.48122,-74.48321,America/New_York,4049286,395,4398678,f,,bookedmd
+5193702,Dr. Howard Martin Druce ,dr-howard-martin-druce, ,242 E Main St  ,08876-3049,,,40.57427,-74.60988,America/New_York,4185686,395,4197000,f,,bookedmd
+5285029,Angela S Salanitro ,angela-s-salanitro, ,176 Forest Ave  ,07028-2414,,,40.80538,-74.20376,America/New_York,4164138,395,4155751,f,,bookedmd
+5318513,Dr. Hyok Y Lee ,dr-hyok-y-lee, ,2177 Oak Tree Rd Suite 207 ,08820-1082,,,40.50447,-74.34704,America/New_York,5391959,395,5332921,f,,bookedmd
+5440606,Dr. Harvey  Weisslitz ,dr-harvey-weisslitz, ,18 Brattleboro Rd  ,08527-4799,,,39.7765,-74.86238,America/New_York,4164138,395,4155751,f,,bookedmd
+5474390,Donatella B Graffino ,donatella-b-graffino, ,8 Saddle Rd First Floor ,07927-1902,,,40.82204,-74.44876,America/New_York,4164138,395,4155751,f,,bookedmd
+5481906,Dr. Nirmala  Basavanand ,dr-nirmala-basavanand, ,419 Bethel Road  ,08244-2108,,,39.31762,-74.5946,America/New_York,5391959,395,5332921,f,,bookedmd
+5650949,Kenneth  Better ,kenneth-better, ,222 New Rd  ,08221-1299,,,40.86316,-73.96764,America/New_York,4164138,395,4155751,f,,bookedmd
+1999612,Carolina  Cabral ,carolina-cabral, ,100 Madison Ave  ,07960-6136,,,40.79677,-74.48154,America/New_York,4185686,395,4197000,f,,bookedmd
+2200245,Kristen  Garofalo ,kristen-garofalo, ,201 Lyons Ave  ,07112-2027,,,40.73566,-74.17237,America/New_York,5391959,395,5332921,f,,bookedmd
+2823666,Saurabh  Kapoor ,saurabh-kapoor, ,201 Lyons Ave E-3 ,07112-2027,,,40.73566,-74.17237,America/New_York,4185686,395,4197000,f,,bookedmd
+2832250,Dr. Anthony  Lucev ,dr-anthony-lucev, ,233 Harmon Ave  ,07024,,,40.85093,-73.97014,America/New_York,4164138,395,4155751,f,,bookedmd
+3185088,Robert A Mohapatra ,robert-a-mohapatra, ,1 Brace Rd Suite C ,08034-2600,,,39.93484,-75.03073,America/New_York,4707894,395,4736286,f,,bookedmd
+3546183,Dr. Robert L Berkowitz ,dr-robert-l-berkowitz, ,20 Prospect Ave Ste 200 Suite 201 ,07601-1999,,,40.88593,-74.04347,America/New_York,5391959,395,5332921,f,,bookedmd
+3842197,Bernard Haksoo Kim ,bernard-haksoo-kim, ,20 Prospect Ave Suite 201 ,07601-1997,,,40.88593,-74.04347,America/New_York,4707894,395,4736286,f,,bookedmd
+4504519,Dr. Kulpreet  Barn ,dr-kulpreet-barn, ,101 Union Street Suite 101 ,08691,,,40.21455,-74.61932,America/New_York,4164138,395,4155751,f,,bookedmd
+4583516,Kumar  Satya ,kumar-satya, ,20 Prospect Ave Ste 201 ,07601-1997,,,40.88593,-74.04347,America/New_York,4049286,395,4398678,f,,bookedmd
+4786399,Dr. David Joseph Silber ,dr-david-joseph-silber, ,20 Prospect Ave Ste 201  ,07601,,,40.88593,-74.04347,America/New_York,4707894,395,4736286,f,,bookedmd
+4874563,Abhishek  Singh ,abhishek-singh, ,100 Madison Ave  ,07960-6136,,,40.79677,-74.48154,America/New_York,4049286,395,4398678,f,,bookedmd
+4990348,Robert W Pattillo ,robert-w-pattillo, ,211 S Main St Ste 205 ,08210-2264,,,39.08261,-74.82378,America/New_York,4049286,395,4398678,f,,bookedmd
+5283056,Kanika Pravin Mody ,kanika-pravin-mody, ,20 Prospect Ave Ste 200  ,07601,,,40.88593,-74.04347,America/New_York,5391959,395,5332921,f,,bookedmd
+2019737,Dr. Hugh H Windom ,dr-hugh-h-windom, ,3570 S Tuttle Ave  ,34239-6405,,,27.33643,-82.53065,America/New_York,4164138,395,4155751,f,,bookedmd
+2111483,Dr. Charles V. Klucka ,dr-charles-v-klucka, ,9671 Gladiolus Dr Suite #104 ,33908-7606,,,26.62168,-81.84059,America/New_York,4185686,395,4197000,f,,bookedmd
+2133691,Dr. Kevin  Stabile ,dr-kevin-stabile, ,5458 Town Center Rd Suite 23 ,33486-1009,,,26.35869,-80.0831,America/New_York,4049286,395,4398678,f,,bookedmd
+2204369,Dr. Ana Maria Lamas ,dr-ana-maria-lamas, ,2000 Sw 27th Ave Ste 301 ,33145-2546,,,25.77427,-80.19366,America/New_York,4185686,395,4197000,f,,bookedmd
+2369976,Dr. Elysee H Sinclair ,dr-elysee-h-sinclair, ,10167 Nw 31st St 200 ,33065-6152,,,26.27119,-80.2706,America/New_York,4164138,395,4155751,f,,bookedmd
+2393015,Jordan Lupo Heath ,jordan-lupo-heath, ,4343 Newberry Rd Ste 1  ,32607-2822,,,29.65163,-82.32483,America/New_York,4049286,395,4398678,f,,bookedmd
+2407073,Crawford Haralson Cleveland ,crawford-haralson-cleveland, ,3298 Summit Blvd Suite 40 ,32503-8318,,,30.42131,-87.21691,America/New_York,4185686,395,4197000,f,,bookedmd
+2412667,Dr. Peter  Ruggiero ,dr-peter-ruggiero, ,1200 W Sr 434 Suite 112 ,32750-4986,,,28.70305,-81.3384,America/New_York,5391959,395,5332921,f,,bookedmd
+2494420,Vesselin  Dimov ,vesselin-dimov, ,2950 Cleveland Clinic Blvd  ,33331-3609,,,26.10037,-80.39977,America/New_York,4707894,395,4736286,f,,bookedmd
+2524816,Michel Elias Akl ,michel-elias-akl, ,806 S Douglas Rd Ste 101  ,33134-3157,,,25.72149,-80.26838,America/New_York,4049286,395,4398678,f,,bookedmd
+2605735,Dr. Steven Gary Weiss ,dr-steven-gary-weiss, ,3251 N Mcmullen Booth Rd Suite 300 ,33761-2022,,,27.96585,-82.8001,America/New_York,4164138,395,4155751,f,,bookedmd
+2733948,Rafael Pedro Busto ,rafael-pedro-busto, ,951 Nw 13 Street Suite 5a ,33486,,,26.35869,-80.0831,America/New_York,5391959,395,5332921,f,,bookedmd
+2742747,Dr. Albert F. Robbins ,dr-albert-f-robbins, ,760 Tivoli Cir Apt 103  ,33441-8138,,,26.31841,-80.09977,America/New_York,4049286,395,4398678,f,,bookedmd
+2792573,Dr. Grace Toledo Padron ,dr-grace-toledo-padron, ,1580 Nw 10th Ave  ,33136-1013,,,25.77427,-80.19366,America/New_York,4185686,395,4197000,f,,bookedmd
+2884892,Donna M Jamieson ,donna-m-jamieson, ,2650 Bahia Vista St Ste 304 ,34239-2634,,,27.33643,-82.53065,America/New_York,5391959,395,5332921,f,,bookedmd
+2931635,Dr. Jeannette G Warner ,dr-jeannette-g-warner, ,1270 Malabar Rd Se Suite 1 ,32907-2556,,,28,-82.6094,America/New_York,4707894,395,4736286,f,,bookedmd
+2964685,Mark Alan Greenberg ,mark-alan-greenberg, ,12630 Whitehall Dr  ,33907-3619,,,26.62168,-81.84059,America/New_York,4707894,395,4736286,f,,bookedmd
+3065448,Dr. Arnaldo Enrique Perez ,dr-arnaldo-enrique-perez, ,5701 N University Dr  ,33067-1703,,,27.9402,-82.2961,America/New_York,4049286,395,4398678,f,,bookedmd
+3092760,Dana L Broussard Perry ,dana-l-broussard-perry, ,8946 Conroy Windermere Rd  ,32835-3128,,,28.53834,-81.37924,America/New_York,4164138,395,4155751,f,,bookedmd
+3145299,Dr. John Paul Cella ,dr-john-paul-cella, ,5701 21st Ave W  ,34209-5605,,,27.49893,-82.57482,America/New_York,4164138,395,4155751,f,,bookedmd
+3175205,Kent N Leifer ,kent-n-leifer, ,375 S Courtenay Pkwy Unit 4 ,32952-4886,,,28.53917,-80.672,America/New_York,4707894,395,4736286,f,,bookedmd
+3180040,Dr. Michael Barry Wein ,dr-michael-barry-wein, ,3375 20th St Suite 140 ,32960-2427,,,27.63864,-80.39727,America/New_York,4707894,395,4736286,f,,bookedmd
+3249602,Jose  Andrade ,jose-andrade-32812-8522-1650997610, ,5412 Curry Ford Rd  ,32812-8522,,,28.53834,-81.37924,America/New_York,4164138,395,4155751,f,,bookedmd
+3251871,Tracy A Sinha-Khona ,tracy-a-sinha-khona, ,4131 University Blvd S Ste 4a  ,32216-4322,,,30.33218,-81.65565,America/New_York,4049286,395,4398678,f,,bookedmd
+3254615,Dr. Suresh  Rajamanickam ,dr-suresh-rajamanickam, ,1395 S State Road 7 Suite350 ,33414-9325,,,27.9173,-82.2423,America/New_York,4164138,395,4155751,f,,bookedmd
+3331996,Shahid Rasul Randhawa ,shahid-rasul-randhawa, ,2510 E Oakland Park Blvd  ,33306-1601,,,26.12231,-80.14338,America/New_York,4049286,395,4398678,f,,bookedmd
+3455834,Wendell N. Colberg ,wendell-n-colberg, ,6000 W Highway 98 Naval Hospital Pensacola- Allergy Clinic ,32512-0001,,,30.42131,-87.21691,America/New_York,4185686,395,4197000,f,,bookedmd
+3549357,Dr. Samridhi Narula Nallamshetty ,dr-samridhi-narula-nallamshetty, ,2352 Bruce B Downs Blvd Ste 303  ,33544-9203,,,28.23973,-82.32787,America/New_York,5391959,395,5332921,f,,bookedmd
+3629466,Dr. Geetika  Sabharwal ,dr-geetika-sabharwal, ,6220 Manatee Ave W Ste 201  ,34209-2361,,,27.49893,-82.57482,America/New_York,4707894,395,4736286,f,,bookedmd
+3699244,Paul T Fass ,paul-t-fass, ,2999 Ne 191st St Suite 230 ,33180-3123,,,25.95648,-80.13921,America/New_York,4707894,395,4736286,f,,bookedmd
+3782287,Dr. Randolph Augustus Malone IV,dr-randolph-augustus-malone-iv, ,2804 Remington Green Circle Ste1  ,32308,,,30.43826,-84.28073,America/New_York,4164138,395,4155751,f,,bookedmd
+3826320,Dr. Brett E Stanaland ,dr-brett-e-stanaland, ,1000 Goodlette Rd N Suite 200 ,34102-5474,,,26.14234,-81.79596,America/New_York,4049286,395,4398678,f,,bookedmd
+3874826,Mr. Christopher Daniel Tumpkin ,mr-christopher-daniel-tumpkin, ,"Hawthorne Clinic And Research Center 2068 Hawthorne St, Suite 201 ",34239,,,27.33643,-82.53065,America/New_York,4164138,395,4155751,f,,bookedmd
+3917373,Shama  Hussain ,shama-hussain, ,5412 Curry Ford Rd  ,32812,,,11.11111,-11.11111,America/New_York,4707894,395,4736286,f,,bookedmd
+3925102,Dr. Brian Christopher Reed ,dr-brian-christopher-reed, ,4343 Newberry Rd Ste 1  ,32607,,,29.65163,-82.32483,America/New_York,4049286,395,4398678,f,,bookedmd
+3944634,Daniel N Tucker ,daniel-n-tucker, ,1411 N Flagler Dr Suite 6700 ,33401-3404,,,26.71534,-80.05337,America/New_York,4164138,395,4155751,f,,bookedmd
+4028556,Dr. Stephen J Klemawesch ,dr-stephen-j-klemawesch, ,6294 1st Ave N  ,33710-8414,,,27.7676,82.6403,America/New_York,4164138,395,4155751,f,,bookedmd
+4037315,Dr. Alexander Louis Scheuermann ,dr-alexander-louis-scheuermann, ,5301 N Federal Hwy Suite # 270 ,33487-4917,,,26.35869,-80.0831,America/New_York,4707894,395,4736286,f,,bookedmd
+4067335,Sanjay  Swami ,sanjay-swami, ,9191 R G Skinner Parkway Suite 402 ,32256-9179,,,30.33218,-81.65565,America/New_York,4707894,395,4736286,f,,bookedmd
+4068701,Dr. Ami  Degala ,dr-ami-degala, ,34041 Us Highway 19 N Ste D  ,34684-2648,,,28.07807,-82.76371,America/New_York,4707894,395,4736286,f,,bookedmd
+4072322,Patrick J Demarco III,patrick-j-demarco-iii, ,1895 Kingsley Ave Suite 401 ,32073-4466,,,30.16607,-81.70648,America/New_York,5391959,395,5332921,f,,bookedmd
+4089555,Yoomie Jane Lee ,yoomie-jane-lee, ,7411 Miami Lakes Dr  ,33014,,,25.90871,-80.30866,America/New_York,5391959,395,5332921,f,,bookedmd
+4119907,Dr. Stephen M Robbins ,dr-stephen-m-robbins, ,504 Marsh Creek Rd  ,34292-5308,,,27.09978,-82.45426,America/New_York,4185686,395,4197000,f,,bookedmd
+4195512,Eugene F Schwartz ,eugene-f-schwartz, ,793 Douglas Ave  ,32714-2566,,,28.66111,-81.36562,America/New_York,4049286,395,4398678,f,,bookedmd
+4203469,Dr. Alan Paul Koterba ,dr-alan-paul-koterba, ,840 Us Highway 1 Ste 235  ,33408-3835,,,26.81756,-80.08199,America/New_York,4164138,395,4155751,f,,bookedmd
+4207563,Dr. Hoyt  Horne ,dr-hoyt-horne, ,423 1/2 E Ash Street  ,32347-2100,,,30.11766,-83.58274,America/New_York,4185686,395,4197000,f,,bookedmd
+4236260,Rajesh Kacharalal Patel ,rajesh-kacharalal-patel, ,1301 S International Parkway Suite 1011 ,32746-1410,,,28.75888,-81.31784,America/New_York,4185686,395,4197000,f,,bookedmd
+4358025,Dr. Raquelle  Alexander ,dr-raquelle-alexander, ,620 10th Street N.  ,33705-1407,,,27.7676,82.6403,America/New_York,4049286,395,4398678,f,,bookedmd
+4416763,Rinki G Verma ,rinki-g-verma, ,955 Town Center Dr Suite 200 ,32763-8255,,,28.94888,-81.29867,America/New_York,4049286,395,4398678,f,,bookedmd
+4452473,Madhurima  Sanka ,madhurima-sanka, ,6233 66th St  ,33781-5025,,,27.8428,-82.69954,America/New_York,5391959,395,5332921,f,,bookedmd
+4481748,Maria T Olivero ,maria-t-olivero, ,4401 4th St North  ,33703,,,27.7676,82.6403,America/New_York,4707894,395,4736286,f,,bookedmd
+4527282,Dr. Curtis Allen Bruce ,dr-curtis-allen-bruce, ,3250 Zemke Ave  ,33621-5023,,,27.94752,-82.45843,America/New_York,4164138,395,4155751,f,,bookedmd
+4614988,Dr. Eva A Berkes ,dr-eva-a-berkes, ,2068 Hawthorne St Suite 202 ,34239-2307,,,27.33643,-82.53065,America/New_York,4707894,395,4736286,f,,bookedmd
+4650671,Dr. Gary Lee Marder ,dr-gary-lee-marder, ,9580 S Federal Hwy  ,34952-4217,,,27.29393,-80.35033,America/New_York,4707894,395,4736286,f,,bookedmd
+4685332,Aarcha Mary Thomas ,aarcha-mary-thomas, ,5460 Lena Rd Unit 101  ,34211-9500,,,27.49893,-82.57482,America/New_York,5391959,395,5332921,f,,bookedmd
+4735387,Dr. David  Rose ,dr-david-rose, ,307 Boatner Rd Ste 114  ,32542-1302,,,11.11111,-11.11111,America/New_York,4185686,395,4197000,f,,bookedmd
+4769595,Dr. Brian Guy Wilson ,dr-brian-guy-wilson, ,2619 Centennial Blvd Ste 103  ,32308-0590,,,30.43826,-84.28073,America/New_York,4185686,395,4197000,f,,bookedmd
+4836769,William  Wood ,william-wood-33480-4465-1651002413, ,100 Worth Ave Apt 601  ,33480-4465,,,26.70562,-80.03643,America/New_York,4185686,395,4197000,f,,bookedmd
+4858362,Diana Patricia Martin ,diana-patricia-martin, ,1918 West Martin Luther King  ,33607-6510,,,27.94752,-82.45843,America/New_York,5391959,395,5332921,f,,bookedmd
+4861579,Stuart Andrew Friedman ,stuart-andrew-friedman, ,5162 Linton Blvd Suite 201 ,33484-6567,,,26.46146,-80.07282,America/New_York,5391959,395,5332921,f,,bookedmd
+4985234,Phillip W Devoe ,phillip-w-devoe, ,1515 Airport Blvd  ,32901-2946,,,28.08363,-80.60811,America/New_York,4049286,395,4398678,f,,bookedmd
+5107981,Dr. Donald Paul Schwartz ,dr-donald-paul-schwartz, ,2684 Swamp Cabbage Court  ,33901,,,26.62168,-81.84059,America/New_York,5391959,395,5332921,f,,bookedmd
+5146651,Mrs. Elena M. Ubals ,mrs-elena-m-ubals, ,7800 Sw 87th Ave Suite C-340 ,33173-3570,,,25.77427,-80.19366,America/New_York,4164138,395,4155751,f,,bookedmd
+5180097,Dr. Hugo  Mcfarlane ,dr-hugo-mcfarlane, ,912 Se 6th St  ,33301-3010,,,33.79844,-86.84861,America/New_York,4707894,395,4736286,f,,bookedmd
+5189281,Dr. Latha M Chamarthy ,dr-latha-m-chamarthy, ,6233 66th Street N  ,33781-5025,,,27.8428,-82.69954,America/New_York,4185686,395,4197000,f,,bookedmd
+5283814,Dr. Pavana Kumari Beerelli ,dr-pavana-kumari-beerelli, ,3140 Suntree Blvd Ste 5  ,32955-5789,,,28.35084,-80.72533,America/New_York,5391959,395,5332921,f,,bookedmd
+5579901,Dr. Aishah  Ali ,dr-aishah-ali, ,9975 Tavistock Lakes Blvd Ste 360  ,32827,,,28.53834,-81.37924,America/New_York,5391959,395,5332921,f,,bookedmd
+5602894,Mark W Minor ,mark-w-minor, ,2290 W Eau Gallie Blvd Ste 205 ,32935-3133,,,28.08363,-80.60811,America/New_York,4164138,395,4155751,f,,bookedmd
+5644492,Dr. Frederick L Bloom ,dr-frederick-l-bloom, ,2650 Bahia Vista St Ste 304 ,34239-2634,,,27.33643,-82.53065,America/New_York,4164138,395,4155751,f,,bookedmd
+1960786,Andrija  Vidic ,andrija-vidic, ,2415 N Orange Ave Ste 700  ,32804-5521,,,28.53834,-81.37924,America/New_York,4185686,395,4197000,f,,bookedmd
+2102147,Dr. Sandra Viviana Chaparro ,dr-sandra-viviana-chaparro, ,7400 Sw 87th Ave Ste 100  ,33173-5458,,,25.77427,-80.19366,America/New_York,4707894,395,4736286,f,,bookedmd
+2136753,Peter D Taylor ,peter-d-taylor, ,1222 S Orange Ave  ,32806-1215,,,28.53834,-81.37924,America/New_York,4185686,395,4197000,f,,bookedmd
+2304713,Hoda  Butrous ,hoda-butrous, ,1801 Nw 9th Ave  ,33136-1101,,,25.77427,-80.19366,America/New_York,4185686,395,4197000,f,,bookedmd
+2426407,Dr. Mrudula Reddy Munagala ,dr-mrudula-reddy-munagala, ,1801 Nw 9th Ave Ste 200  ,33136-1102,,,25.77427,-80.19366,America/New_York,4164138,395,4155751,f,,bookedmd
+2647437,Joel Richard Garcia ,joel-richard-garcia, ,2000 Fowler Grove Blvd Fl 3  ,34787-5050,,,28.56528,-81.58618,America/New_York,4185686,395,4197000,f,,bookedmd
+2823733,Raghavendra Charan P Makam ,raghavendra-charan-p-makam, ,1000 36th St  ,32960-4862,,,27.63864,-80.39727,America/New_York,5391959,395,5332921,f,,bookedmd
+2885863,Maria C Karam Demori ,maria-c-karam-demori, ,1222 S Orange Ave  ,32806-1215,,,28.53834,-81.37924,America/New_York,4164138,395,4155751,f,,bookedmd
+2886631,Dr. Daniel L Dries ,dr-daniel-l-dries, ,3000 Medical Park Dr Ste 300  ,33613-4696,,,27.94752,-82.45843,America/New_York,4049286,395,4398678,f,,bookedmd
+3228934,Yordanka I Reyna ,yordanka-i-reyna, ,7369 Sheridan St Ste 300  ,33024-2776,,,26.0112,-80.14949,America/New_York,4707894,395,4736286,f,,bookedmd
+3288978,Sundeep  Mediratta ,sundeep-mediratta, ,2080 Oakley Seaver Dr  ,34711-1962,,,28.54944,-81.77285,America/New_York,4185686,395,4197000,f,,bookedmd
+3300484,Parag  Patel ,parag-patel-32224-1865-1650997760, ,4500 San Pablo Rd S  ,32224-1865,,,30.33218,-81.65565,America/New_York,4185686,395,4197000,f,,bookedmd
+3313126,Krithika  Krishnarao ,krithika-krishnarao, ,4500 San Pablo Rd S  ,32224-1865,,,30.33218,-81.65565,America/New_York,4049286,395,4398678,f,,bookedmd
+3315439,Judith F Paulino De Toribio ,judith-f-paulino-de-toribio, ,770 W Dr Martin Luther King Jr Blvd  ,33584-4534,,,27.98363,-82.27565,America/New_York,5391959,395,5332921,f,,bookedmd
+3337863,Dr. Meenakshi Awasthi Bhalla ,dr-meenakshi-awasthi-bhalla, ,3003 W Dr Martin Luther King Jr Blvd Fl 2  ,33607-6307,,,27.94752,-82.45843,America/New_York,4185686,395,4197000,f,,bookedmd
+3346630,Alex M Parker ,alex-m-parker, ,1600 Sw Archer Rd  ,32610-3003,,,29.65163,-82.32483,America/New_York,5391959,395,5332921,f,,bookedmd
+3371856,David L. Smull ,david-l-smull, ,1223 Gateway Dr Ste 2f  ,32901,,,28.08363,-80.60811,America/New_York,4707894,395,4736286,f,,bookedmd
+3432467,Stacy Allison Mandras ,stacy-allison-mandras, ,2415 N Orange Ave Ste 700  ,32804-5521,,,28.53834,-81.37924,America/New_York,4707894,395,4736286,f,,bookedmd
+3438772,Dr. Nina Thakkar Rivera ,dr-nina-thakkar-rivera, ,1801 Nw 9th Ave  ,33136-1101,,,25.77427,-80.19366,America/New_York,4185686,395,4197000,f,,bookedmd
+1988685,Mr. Victor  Krupitsky ,mr-victor-krupitsky, ,2467 Ocean Ave  ,11229,,,40.6501,-73.94958,America/New_York,5391959,395,5332921,f,,bookedmd
+2064441,Dr. Dorothy  Chau ,dr-dorothy-chau, ,1 Teleport Dr Ste 200  ,10311-1000,,,40.56233,-74.13986,America/New_York,5391959,395,5332921,f,,bookedmd
+2900041,Maria- Anna  Vastardi ,maria-anna-vastardi, ,9036 7th Ave  ,11228-3625,,,40.6501,-73.94958,America/New_York,4707894,395,4736286,f,,bookedmd
+3911331,Dr. Marc Joseph Sicklick ,dr-marc-joseph-sicklick, ,123 Grove Ave Ste 110 ,11516-2302,,,40.62288,-73.7243,America/New_York,4164138,395,4155751,f,,bookedmd
+4159677,Dr. Elliot  Rubinstein ,dr-elliot-rubinstein, ,840 Hanshaw Road Asthma & Allergy Associates P.c. ,14850,,,42.44063,-76.49661,America/New_York,5391959,395,5332921,f,,bookedmd
+2809866,Stuart Arthur Kravitz ,stuart-arthur-kravitz, ,127 Ark Rd Suite 1 ,08054-6302,,,39.934,-74.891,America/New_York,4707894,395,4736286,f,,bookedmd
+3460698,Philip Lawrence Case ,philip-lawrence-case, ,3499 Us Highway 9 Suite 2c-5 ,07728-3258,,,40.26011,-74.27376,America/New_York,4185686,395,4197000,f,,bookedmd
+5197490,Sahana  Vishwanath ,sahana-vishwanath, ,54 E Main St  ,08053-2141,,,39.89122,-74.92183,America/New_York,4185686,395,4197000,f,,bookedmd
+2139910,Dr. Ranjith M Shetty ,dr-ranjith-m-shetty, ,5307 Main St Suite # 201 ,34652-2536,,,28.24418,-82.71927,America/New_York,4164138,395,4155751,f,,bookedmd
+3007738,Dr. Robert Allen Gillham JR.,dr-robert-allen-gillham-jr, ,4500 San Pablo Rd S  ,32224-1865,,,30.33218,-81.65565,America/New_York,4185686,395,4197000,f,,bookedmd
+3214512,Dr. Boyce Andrew Hornberger ,dr-boyce-andrew-hornberger, ,3151 N Alafaya Trl Ste 103 ,32826-2945,,,28.53834,-81.37924,America/New_York,4049286,395,4398678,f,,bookedmd
+4576715,Dr. Miguel J Lanz ,dr-miguel-j-lanz, ,365 Alcazar Ave  ,33134-4301,,,25.72149,-80.26838,America/New_York,4049286,395,4398678,f,,bookedmd
+3531635,Mrs. Morgan  Jones ,mrs-morgan-jones, ,38035 Medical Center Ave  ,33540-1384,,,28.23362,-82.18119,America/New_York,4185686,395,4197000,f,,bookedmd
+3591837,Dr. Elsy Viviana Navas ,dr-elsy-viviana-navas, ,399 9th St N Ste 300  ,34102-5820,,,26.14234,-81.79596,America/New_York,4049286,395,4398678,f,,bookedmd
+3629000,Sushma  Koneru ,sushma-koneru, ,521 W State Road 434 Ste 307&308  ,32750-4984,,,28.70305,-81.3384,America/New_York,4707894,395,4736286,f,,bookedmd
+3668883,Juan  Leoni Moreno ,juan-leoni-moreno, ,4500 San Pablo Rd S  ,32224-1865,,,30.33218,-81.65565,America/New_York,4185686,395,4197000,f,,bookedmd
+3784117,Jeffrey  Hosenpud ,jeffrey-hosenpud, ,4500 San Pablo Rd S  ,32224-1865,,,30.33218,-81.65565,America/New_York,4164138,395,4155751,f,,bookedmd
+3873996,Dr. Puxiao  Cen ,dr-puxiao-cen, ,689 E Altamonte Dr  ,32701-4801,,,28.66111,-81.36562,America/New_York,4185686,395,4197000,f,,bookedmd
+4129340,Saleh  El Dassouki ,saleh-el-dassouki, ,1611 Nw 12th Ave Room 1004 ,33136-1005,,,25.77427,-80.19366,America/New_York,4185686,395,4197000,f,,bookedmd
+4216802,Naveen  Bellam ,naveen-bellam, ,Florida Hospital 2415 N Orange Ave Suite 700 ,32804,,,28.53834,-81.37924,America/New_York,4185686,395,4197000,f,,bookedmd
+2327532,hawijid538 hawijid538,hawijid538-hawijid538,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam","","",,"",,,,,,,f,0,
+2327533,Provider Provider,provider-provider,"",Some Address,qq222,,"",,,,4049968,395,5101760,t,11,

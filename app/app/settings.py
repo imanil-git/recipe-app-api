@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'drf_spectacular',
     'user',
     'recipe',
+    'healthcare',
 ]
 
 MIDDLEWARE = [
@@ -131,7 +132,7 @@ STATIC_URL = '/static/static/'
 MEDIA_URL = '/static/media/'
 
 MEDIA_ROOT = '/vol/web/media'
-STATIC_ROOT = 'vol/web/static'
+STATIC_ROOT = '/vol/web/static'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field

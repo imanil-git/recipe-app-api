@@ -1,0 +1,55 @@
+id,name,abbr,slug,country_id
+4099753,Arkansas,AR,arkansas,395
+4138106,District of Columbia,DC,district-of-columbia,395
+4142224,Delaware,DE,delaware,395
+4155751,Florida,FL,florida,395
+4197000,Georgia,GA,georgia,395
+4273857,Kansas,KS,kansas,395
+4331987,Louisiana,LA,louisiana,395
+4361885,Maryland,MD,maryland,395
+4398678,Missouri,MO,missouri,395
+4436296,Mississippi,MS,mississippi,395
+4482348,North Carolina,NC,north-carolina,395
+4544379,Oklahoma,OK,oklahoma,395
+4597040,South Carolina,SC,south-carolina,395
+4662168,Tennessee,TN,tennessee,395
+4736286,Texas,TX,texas,395
+4826850,West Virginia,WV,west-virginia,395
+4829764,Alabama,AL,alabama,395
+4831725,Connecticut,CT,connecticut,395
+4862182,Iowa,IA,iowa,395
+4896861,Illinois,IL,illinois,395
+4921868,Indiana,IN,indiana,395
+4971068,Maine,ME,maine,395
+5001836,Michigan,MI,michigan,395
+5037779,Minnesota,MN,minnesota,395
+5073708,Nebraska,NE,nebraska,395
+5090174,New Hampshire,NH,new-hampshire,395
+5101760,New Jersey,NJ,new-jersey,395
+5128638,New York,NY,new-york,395
+5165418,Ohio,OH,ohio,395
+5224323,Rhode Island,RI,rhode-island,395
+5242283,Vermont,VT,vermont,395
+5279468,Wisconsin,WI,wisconsin,395
+5332921,California,CA,california,395
+5417618,Colorado,CO,colorado,395
+5481136,New Mexico,NM,new-mexico,395
+5509151,Nevada,NV,nevada,395
+5549030,Utah,UT,utah,395
+5551752,Arizona,AZ,arizona,395
+5596512,Idaho,ID,idaho,395
+5667009,Montana,MT,montana,395
+5690763,North Dakota,ND,north-dakota,395
+5744337,Oregon,OR,oregon,395
+5769223,South Dakota,SD,south-dakota,395
+5815135,Washington,WA,washington,395
+5843591,Wyoming,WY,wyoming,395
+5855797,Hawaii,HI,hawaii,395
+5879092,Alaska,AK,alaska,395
+6254925,Kentucky,KY,kentucky,395
+6254926,Massachusetts,MA,massachusetts,395
+6254927,Pennsylvania,PA,pennsylvania,395
+6254928,Virginia,VA,virginia,395
+6254929,Guam,GU,guam,395
+6254935,Puerto Rico,PR,puerto-rico,395
+6255472,New Island,NI,new-island,395
